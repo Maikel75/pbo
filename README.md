@@ -1,6 +1,7 @@
-# Project PBO
+# Project PBO Project ini digunakan untuk praktek mata kuliah PBO.
+
 Nama : Michael Umbu Dassa S
-Project ini digunakan untuk praktek mata kuliah PBO.
+NIM : 2015804367
 
 ## Instalasi
 
